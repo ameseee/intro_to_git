@@ -15,3 +15,7 @@ def second_feature(number)
     p "You must be talking about Mike Dao because he is #1"
   end
 end
+
+def third_feature
+  p "this is the third feature"
+end
