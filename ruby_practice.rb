@@ -9,3 +9,9 @@ def first_feature(word)
     p "You must be talking about Mike Dao"
   end
 end
+
+def second_feature(number)
+  if number == 1
+    p "You must be talking about Mike Dao because he is #1"
+  end
+end
